@@ -1,4 +1,4 @@
- <p align="center"> <img src="img.png"> </p>
+ <p align="center"> <img src="img.png" height="150rem"> </p>
 
 > **Intro:**
 - 👋 Hi, I’m Abubakar Mulla [ Software Engineer ]
