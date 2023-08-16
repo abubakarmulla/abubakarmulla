@@ -1,3 +1,5 @@
+ <p align="center"> <img src="img.png"> </p>
+
 > **Intro:**
 - 👋 Hi, I’m Abubakar Mulla [ Software Engineer ]
 - 👨‍🎓 I have completed Bachelor of Engg.(**BE**) in Computer Science and Engineering(**CSE**) and graduated during May 2023.
