@@ -25,15 +25,10 @@
 > **Looking for:**
 - 💖 I’m looking for a **software development** based job opportunity [WFO/WFH/Remote] to do a interesting projects and to work at a place where I can contribute hugely using my skills and strengths, Simultaneously to grow exponentially in the software industry.
 - 📫 You can reach me @LinkedIn: [LinkedIn - Abubakar Mulla](https://www.linkedin.com/in/abubakarmulla23)
-<br>
 
 ![Abubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarmulla&show_icons=true&theme=nightowl&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarmulla&layout=pie)
 
-<br>
 <!---
 abubakarmulla/abubakarmulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
