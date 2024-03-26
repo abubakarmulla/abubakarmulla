@@ -1,8 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakarmulla&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarmulla" /> </p>
  <p align="center"> <img src="img.png" height="150rem"> </p>
 <h1 align="center">Hi 👋, I'm Abubakar Mulla</h1>
 <h3 align="center">Associate Software Engineer @THIS and Software Development Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakarmulla&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarmulla" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakarmulla" alt="abubakarmulla" /></a> </p>
 
 > **📫 For open source collaborations and freelancing projects, can also contact me at my exhaustive worked GitHub account[@abumulla](https://github.com/abumulla)**
